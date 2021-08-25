@@ -1,2 +1,2 @@
 # C-Programming
-From basic to Advance Programs in CPP
+Basic to Advance Programs in CPP
